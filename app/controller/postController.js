@@ -114,7 +114,7 @@ exports.createPost = async (req, res) => {
 							<nav class="nav-dropdown-list w-dropdown-list">
 								<div class="nav-dropdown-link-wrapper"><a href="https://www.crisgova.org/education.html"
 										class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-										</span>Education</a><a href="https://www.crisgova.org/entertaiment.html"
+										</span>portfolio</a><a href="https://www.crisgova.org/entertaiment.html"
 										class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
 										</span>Entertaiment</a><a href="https://www.crisgova.org/corporate.html"
 										class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
