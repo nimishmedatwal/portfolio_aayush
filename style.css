@@ -16,6 +16,25 @@ audio, canvas, progress, video {
   vertical-align: baseline;
   display: inline-block;
 }
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #484848;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b0b0b0;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
 
 audio:not([controls]) {
   height: 0;
